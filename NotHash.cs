@@ -6,6 +6,7 @@ namespace NotHash
 {
     public class NotHash
     {
+        static int version = 1;
         //MAX STRING LENGHT IS 509 CHARACTERS DONT USE MORE !
         public string NotHasher(string rawInput)
         {
